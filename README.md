@@ -19,11 +19,11 @@ Our vision is to bridge the gap between doctors and patients, making healthcare 
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://your-build-url)
 
-The current version of El7a2ny Virtual Clinic and Pharmacy is successfully passing all builds. We are committed to delivering a robust and reliable platform. In the rare event of any hidden glitches, rest assured that they are diligently handled, and they do not pose code-breaking issues. Our development team is proactive in addressing and resolving any unexpected issues to ensure a seamless experience for our users.
+The current version of MedExpress Virtual Clinic and Pharmacy is successfully passing all builds. We are committed to delivering a robust and reliable platform. In the rare event of any hidden glitches, rest assured that they are diligently handled, and they do not pose code-breaking issues. Our development team is proactive in addressing and resolving any unexpected issues to ensure a seamless experience for our users.
 
 ## Code Style
 
-El7a2ny Virtual Clinic and Pharmacy follows a clear and organized coding structure based on the Model-View-Controller (MVC) architecture. This separation of concerns enhances maintainability and scalability by isolating the application logic, user interface, and data.
+MedExpress Virtual Clinic and Pharmacy follows a clear and organized coding structure based on the Model-View-Controller (MVC) architecture. This separation of concerns enhances maintainability and scalability by isolating the application logic, user interface, and data.
 
 ### MVC Architecture
 
@@ -39,7 +39,7 @@ To enhance code readability and maintainability, we leverage routing mechanisms.
 
 ## Frameworks and Technologies Used
 
-El7a2ny Virtual Clinic and Pharmacy is built on the MERN (MongoDB, Express.js, React, Node.js) stack, with the addition of Next.js for seamless server-side rendering and enhanced performance.
+MedExpress Virtual Clinic and Pharmacy is built on the MERN (MongoDB, Express.js, React, Node.js) stack, with the addition of Next.js for seamless server-side rendering and enhanced performance.
 
 ### MERN Stack
 
@@ -84,7 +84,7 @@ By combining these technologies, we aim to deliver a robust, scalable, and user-
 
 - **Family Members Management:** Patients can add family members to their accounts, extending subscription benefits to them.
 
-- **Pharmacy Services:** Patients can purchase medicines from the pharmacy section, checkout, and track their orders. They can also engage in chat with the pharmacy.
+- **Pharmacy Services:** Patients can purchase medicines from the pharmacy section, checkout, and track their orders. They can also chat with the pharmacy.
 
 - **Password Reset:** Patients can reset their passwords via email if forgotten.
 
@@ -98,40 +98,40 @@ By combining these technologies, we aim to deliver a robust, scalable, and user-
 
 - **Account Approval:** Admins have the authority to approve new doctor and pharmacist accounts.
 
-These features collectively make El7a2ny Virtual Clinic and Pharmacy a comprehensive platform for streamlined healthcare services, connecting doctors, patients, and pharmacists efficiently.
+These features collectively make MedExpress Virtual Clinic and Pharmacy a comprehensive platform for streamlined healthcare services, connecting doctors, patients, and pharmacists efficiently.
 
 ## Credits
 
 ### Frameworks, Libraries, and Resources
 
-- [Material-UI (MUI) Devias Kit](https://mui.com/store/items/devias-kit/): Credits to the creators of the MUI Devias Kit for providing a foundation of design principles and components that significantly contributed to the visual aesthetics and user experience of El7a2ny Virtual Clinic and Pharmacy.
+- [Material-UI (MUI) Devias Kit](https://mui.com/store/items/devias-kit/): Credits to the creators of the MUI Devias Kit for providing a foundation of design principles and components that significantly contributed to the visual aesthetics and user experience of MedExpress Virtual Clinic and Pharmacy.
 
 ### Educational Resources
 
 - [Net Ninja Node.js YouTube Playlist](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU): Gratitude to Net Ninja for the informative and insightful Node.js tutorials. These resources played a crucial role in shaping the backend architecture of our virtual clinic.
 
-- [Net Ninja React YouTube Playlist](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d): Special thanks to Net Ninja for the comprehensive React tutorials. These tutorials were instrumental in the development of the frontend, ensuring a smooth and responsive user interface.
+- [Net Ninja React YouTube Playlist](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d): Special thanks to Net Ninja for the comprehensive React tutorials. These tutorials were instrumental in the development of the front end, ensuring a smooth and responsive user interface.
 
 ### Other Contributions
 
-- [Any Other Third-Party Libraries or Resources Used](#): Acknowledgment to the creators of any additional libraries or resources that have been utilized in the development of El7a2ny Virtual Clinic and Pharmacy.
+- [Any Other Third-Party Libraries or Resources Used](#): Acknowledgment to the creators of any additional libraries or resources that have been utilized in the development of MedExpress Virtual Clinic and Pharmacy.
 
 We extend our appreciation to the developers, educators, and contributors whose work has played a key role in the success of this project.
 
 ## License
 
-### El7a2ny Virtual Clinic and Pharmacy
+### MedExpress Virtual Clinic and Pharmacy
 
 
 ### Third-Party Licenses
 
-- **Stripe:** Payment processing in El7a2ny Virtual Clinic and Pharmacy is facilitated by Stripe. Please refer to the [Stripe Terms of Service](https://stripe.com/terms) for information on licensing and usage.
+- **Stripe:** Payment processing in MedExpress Virtual Clinic and Pharmacy is facilitated by Stripe. Please refer to the [Stripe Terms of Service](https://stripe.com/terms) for information on licensing and usage.
 
 - **MUI Devias Kit:** The Material-UI Devias Kit is used for design and user interface components. Refer to the [Devias Kit License](https://mui.com/store/items/devias-kit/) for licensing details.
 
 - **Net Ninja Node.js and React YouTube Playlists:** The educational resources provided by Net Ninja are subject to their respective licenses. Please check the terms on the [Net Ninja YouTube Channel](https://www.youtube.com/@NetNinja) for more information.
 
-- **Any Other Third-Party Libraries or Resources Used:** Check the documentation or respective repositories for licensing details of any additional libraries or resources utilized in El7a2ny Virtual Clinic and Pharmacy.
+- **Any Other Third-Party Libraries or Resources Used:** Check the documentation or respective repositories for licensing details of any additional libraries or resources utilized in MedExpress Virtual Clinic and Pharmacy.
 
 It is essential to review and comply with the licenses associated with the third-party components used in this project.
 
@@ -520,7 +520,7 @@ Backend of getting all prescriptions
 
 ## Installation
 
-To get started with the El7a2ny Virtual Clinic and Pharmacy, follow the steps below:
+To get started with the MedExpress Virtual Clinic and Pharmacy, follow the steps below:
 
 ### Clinic Installation
 
