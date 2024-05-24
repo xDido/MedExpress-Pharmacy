@@ -1,7 +1,7 @@
-# El7a2ny Virtual Clinic and Pharmacy
+# MedExpress Virtual Clinic and Pharmacy
 ## Motivation
 
-El7a2ny Virtual Clinic and Pharmacy is not just a software solution; it's a revolutionary approach to healthcare. In a world where convenience and efficiency matter, our goal is to redefine the concept of "Telehealth" by leveraging cutting-edge technologies and techniques.
+MedExpress Virtual Clinic and Pharmacy is not just a software solution; it's a revolutionary approach to healthcare. In a world where convenience and efficiency matter, our goal is to redefine the concept of "Telehealth" by leveraging cutting-edge technologies and techniques.
 
 ### Vision
 
